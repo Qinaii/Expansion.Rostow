@@ -8,4 +8,4 @@ Permission to upload this file from LieutenantMaster [Project Developer and Scri
 Yes i will updates it each Rostow or DayZ update.
 
 # DO NOT:
-Reupload these files anywhere without my permission.
+Do not reupload these files anywhere without my permission.
