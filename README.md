@@ -17,6 +17,9 @@ Inside this file, look for the template and change it to match this:
 # Omegamanager
 simply go to your server overview - server configuration and change the Mission to Expansion.Rostow
 
+# Economy Editor
+[https://github.com/Qinaii/Economy-Rostow](https://github.com/Qinaii/Economy-Rostow)
+
 # Further Updates?
 Yes i will updates it each Rostow or DayZ update.
 
